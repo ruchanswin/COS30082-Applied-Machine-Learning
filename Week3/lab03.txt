@@ -1,0 +1,23 @@
+
+a/ Learn by Example
+
+This lab task uses the classic Auto MPGLinks to an external site. 
+Dataset and builds a model to predict the fuel efficiency of late-1970s and early 1980s automobiles. 
+The dataset provides the model with a description of many automobiles from that time period, 
+and this description includes attributes: cylinders, displacement, horsepower, and weight. 
+This example uses the tf.keras API, see this guideLinks to an external site. for details.
+You may use the notebook via google collab. 
+
+b/ Solve on Your Own
+
+Follow the above example and use the Medical Insurance Price Prediction dataset from Kaggle to predict medical insurance costs. 
+You must include:
+
+Feature normalisation
+Linear regression with one feature
+Multiple linear regression
+Deep neural network (DNN) - single feature
+Deep neural network (DNN) - multiple features
+Performance comparison using metrics such as mean absolute error (MAE)
+Visualisation of predictions from the best-performing model
+Please submit your completed code on Canvas > Assignments.

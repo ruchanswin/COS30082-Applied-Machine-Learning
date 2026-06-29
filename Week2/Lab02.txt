@@ -1,0 +1,46 @@
+1. Learn by Example
+ 
+a/ Logistic Regression
+
+Explore the Jupyter Notebook below to understand how Python libraries can be used to perform logistic regression. 
+In this example, you will predict a person’s gender based on their height and weight.
+
+b/ SVM Classification
+
+Explore the Jupyter Notebook below to understand SVM classification. 
+This example uses the same height and weight dataset to predict gender, allowing you to compare the SVM approach with logistic regression.
+
+2. Solve on Your Own
+
+Build your own classifiers using both Logistic Regression and SVM to predict Titanic survival. 
+Compare the performance of the two algorithms using the same dataset.
+The Titanic dataset contains information about passengers aboard the Titanic and is commonly used for survival prediction. 
+The dataset includes the following columns:
+
+Survived: Survival status (0 = No, 1 = Yes)
+Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+Name: Passenger name
+Sex: Passenger gender
+Age: Passenger age
+SibSp: Number of siblings/spouses aboard
+Parch: Number of parents/children aboard
+Ticket: Ticket number
+Fare: Passenger fare
+Cabin: Cabin number
+Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+Use your model to make predictions on the test data. Calculate evaluation metrics such as accuracy and recall, and print the results.
+Create a DataFrame containing three records (three passengers). Use your model to predict survival, 
+and print the results using text descriptions such as “survived” and “not survived.”
+
+Submission
+
+Submit your Jupyter Notebook source code to Canvas.
+Show your work to your tutor during the lab session to get marked off. This lab is assessed in Week 2 and Week 3 only. 
+If you cannot attend, please provide supporting documentation (e.g. a medical certificate) to request an extension.
+Your tutor will review your work and ask you questions to assess your understanding. 
+Marks are based on the quality of your work and your ability to explain your work.
+
+Up to 2 marks: limited or no understanding demonstrated.
+Up to 4 marks: reasonable understanding demonstrated.
+Up to 6 marks: strong and clear understanding demonstrated.
